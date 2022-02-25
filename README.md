@@ -12,6 +12,9 @@
 <div class="entry-content" itemprop="text">
 <div class="wp-block-image"><figure class="aligncenter size-full"><img width="800" height="340" src="http://5b0988e595225.cdn.sohucs.com/images/20181227/5512128d860e4369a80b2cc270bd4229.jpeg" alt="iOS VPN" class="wp-image-2747"  /></figure></div>
 <p>如今使用苹果手机翻墙的用户越来越多，但是防火长城却也越来越高，能在中国使用的苹果VPN屈指可数。尤其是中国大陆Apple Store的限制，更增加了iPad、iPhone用户的iOS翻墙难度，导致下载iOS VPN翻墙软件也很困难。</p>
+  
+----  
+  
 <p>本指南将介绍苹果手机怎么翻墙，以及如何注册美区Apple ID账号下载苹果翻墙软件APP的教程。如果你不想读完整篇文章，可以选择以下我们推荐的好用的iOS VPN：</p>
 <div class="purple-bar-back"><ul><li>1.<a href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=iosvpn" target="_blank" rel="noopener">ExpressVPN</a> —— 速度最快的苹果VPN，全球众多服务器不限带宽和流量。</li><li>2.<a href="https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianab&data2=iosvpn" target="_blank" rel="noreferrer noopener">PureVPN</a> —— 价格便宜延迟低，提供香港、台湾节点，APP用户体验好。</li><li>3.<a href="https://www.pantoto.xyz/r/22216799" target="_blank" rel="noreferrer noopener">PandaVPN</a> —— 提供iOS VPN安装包，大陆近距离节点多，华人团队开发。</li><li>4.<a href="https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianab&data2=iosvpn" target="_blank" rel="noreferrer noopener">Surfshark</a> —— 独特的翻墙模式，在中国可稳定使用，美国节点数量多。</li><li>5.<a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxianab&aff_click_id=iosvpn" target="_blank" rel="noreferrer noopener">NordVPN</a> —— 混淆模式和高级加密技术，可以绕过防火长城检测。</li></ul></div>
 <p>我们不推荐国内的翻墙VPN，因为在国内销售翻墙软件属于违法行为，国内VPN随时都由可能被请喝茶，很可能付费之后VPN就连不上。而个人开发的机场梯子，也面临同样的风险。因此都不是长期稳定的iPhone翻墙选择。</p>
